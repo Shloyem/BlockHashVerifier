@@ -23,7 +23,6 @@ contract BlockHashVerifier {
         bytes extra_data;
         bytes32 mixHash;
         uint64 nonce;
-        uint256 totalDifficulty;
     }
 
     function getBlockRlpData(BlockHashVerifier.BlockHeader memory header) internal pure returns (bytes memory data) {

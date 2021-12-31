@@ -16,7 +16,6 @@ const blockmock = {
         difficulty: '6022643743806',
         mixHash: '0x3fbea7af642a4e20cd93a945a1f5e23bd72fc5261153e09102cf718980aeff38',
         nonce: '7706288617141211887',
-        totalDifficulty: '80936375638038'
     }
 }
 
